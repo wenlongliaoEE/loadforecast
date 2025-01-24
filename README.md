@@ -13,6 +13,7 @@ While this repository is designed primarily for **load forecasting**, it can als
 
 
 If you use this repository in your research or projects, please cite it as:
+
 W. Liao, Z. Yang, M. Jia, C. Rehtanz, J. Fang, F. Porté-Agel, "Zero-Shot Load Forecasting with Large Language Models," arXiv preprint,  
 https://doi.org/10.48550/arXiv.2411.11350
 
