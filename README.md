@@ -18,3 +18,4 @@ If you use this repository in your research or projects, please cite it as:
 
 W. Liao, Z. Yang, M. Jia, C. Rehtanz, J. Fang, F. Porté-Agel, "Zero-Shot Load Forecasting with Large Language Models," arXiv preprint,  https://doi.org/10.48550/arXiv.2411.11350
 
+**dataset**: Hourly Load and its Electricity Consumption Data of Nongfusanquan(China's largest packaging water supplier), China, from May 2017 to August 2017: https://mp.weixin.qq.com/s/Oy38thKwmC13kUhw6qDa9w
